@@ -1,0 +1,12 @@
+{
+  "name": "using-execa-es-module-in-node",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^6.0.0"
+  }
+}
