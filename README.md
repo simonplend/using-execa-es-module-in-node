@@ -2,12 +2,12 @@
 
 > Example scripts using the [execa](https://www.npmjs.com/package/execa) library.
 
-<!--
+
 ## Article
 
 The code in this repository was written to accompany the article
-[Running commands with execa in Node.js](TODO:).
--->
+[Running commands with execa in Node.js](https://blog.logrocket.com/running-commands-with-execa-in-node-js/).
+
 
 ## Requirements
 
